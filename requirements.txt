@@ -1,2 +1,4 @@
 pillow
 matplotlib
+tensorflow
+scikit-learn
